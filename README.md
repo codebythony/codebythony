@@ -11,7 +11,7 @@
 ### 📌 Sobre mim
 
 - 🎯 Estou em busca da minha primeira oportunidade na área de **tecnologia**.
-- 🧠 Aprendo melhor com anotações e ensino como se fosse para uma criança 😄
+- 🧠 Aprendo melhor com anotações.
 - 💻 Foco atual: **Front-end Developer** com JavaScript e futuramente React.js.
 - 💬 Gosto de ajudar e compartilhar tudo que aprendo.
 - 🎓 Formado em Gestão da TI e buscando especialização em desenvolvimento.
