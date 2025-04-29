@@ -43,6 +43,7 @@
 ### 📨 Entre em contato
 
 - 📧 *anthony.lima.dev@gmail.com*
+- 📧 *https://www.dio.me/users/anthony_lima_dev*
 
 ---
 
