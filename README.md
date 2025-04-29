@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Anthony! 👋</h1>
+<h1 align="center">Olá, eu sou o Anthony Alyson! 👋</h1>
 
 <p align="center">
   🌱 Estudando para ser <strong>Desenvolvedor Front-end</strong><br/>
