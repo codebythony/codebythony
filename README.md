@@ -44,7 +44,7 @@
 
 - 📧 *anthony.lima.dev@gmail.com*
 - 📧 *https://www.dio.me/users/anthony_lima_dev*
-
+- 📧 *https://www.linkedin.com/in/anthony-alyson-do-nascimento-lima-9bb342363/*
 ---
 
 > ✨ “Um dia de cada vez” — evoluindo sempre com foco, calma e disciplina.
