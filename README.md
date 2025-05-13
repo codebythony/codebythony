@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width="300" alt="Pixel Art Anthony">
+  <br>
+</div>
+
 <h1 align="center">Olá, eu sou o Anthony Alyson! 👋</h1>
 
 <p align="center">
