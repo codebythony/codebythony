@@ -29,7 +29,19 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=fff)
 ![UX Design](https://img.shields.io/badge/UX%20Design-FF69B4?style=for-the-badge)
 
----
+---------
+| Cursos | Certificados |
+| ------ | ------------ |
+|Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
+| Git e GitHub | Cursando |
+| HTML 5 | A Cursar |
+| CSS3 | A Cursar |
+| JavaScript | A Cursar |
+| TypeScript | A Cursar |
+| React | A Cursar |
+| Angular | A Cursar |
+| Node.js | A Cursar |
+---------
 
 ### 📈 GitHub Stats
 
