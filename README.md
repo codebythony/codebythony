@@ -41,6 +41,7 @@
 | Git e GitHub | Cursando |
 | HTML 5 | A Cursar |
 | CSS3 | A Cursar |
+| UX Designer | A Cursar |
 | JavaScript | A Cursar |
 | TypeScript | A Cursar |
 | React | A Cursar |
