@@ -37,9 +37,9 @@
 ---------
 | Cursos | Certificados |
 | ------ | ------------ |
-|Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
-| Git e GitHub | [Certificado](https://hermes.dio.me/certificates/DTHRVSXB.pdf) |
-| HTML 5 | A Cursar |
+|Lógica de Programação | [Certificado]✅(https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
+| Git e GitHub | [Certificado]✅(https://hermes.dio.me/certificates/DTHRVSXB.pdf) |
+| HTML 5 | Cursando 🚀 |
 | CSS3 | A Cursar |
 | UX Designer | A Cursar |
 | JavaScript | A Cursar |
