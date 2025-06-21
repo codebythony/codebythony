@@ -39,7 +39,7 @@
 | ------ | ------------ |
 |Lógica de Programação | [Certificado](https://hermes.dio.me/certificates/BVYHTF2N.pdf) |
 | Git e GitHub | [Certificado](https://hermes.dio.me/certificates/DTHRVSXB.pdf) |
-| HTML 5 | [Certificado](file:///C:/Users/Administrator/Desktop/Certificados/TYBSETT5.pdf) |
+| HTML 5 | [Certificado](https://hermes.dio.me/certificates/TYBSETT5.pdf) |
 | CSS3 | Cursando 🚀 |
 | UX Designer | A Cursar |
 | JavaScript | A Cursar |
